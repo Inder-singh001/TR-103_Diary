@@ -1,0 +1,4 @@
+### Testing and Debugging the Application
+On Day 27, I dedicated my time to testing and debugging the community forum application. I wrote test cases to ensure that all features functioned as expected. This testing phase was crucial for identifying and resolving any issues before deployment.
+
+I used tools like Jest and React Testing Library to test frontend components, ensuring that they rendered correctly and responded to user interactions. Additionally, I conducted manual testing to evaluate the overall performance and usability of the application. This thorough testing process gave me confidence in the application's stability and performance.

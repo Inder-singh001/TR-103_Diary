@@ -1,0 +1,4 @@
+### Building REST APIs
+On Day 25, I began building REST APIs to interact with the MongoDB database. I created endpoints for user registration, login, post creation, and comment management. This process involved implementing CRUD (Create, Read, Update, Delete) operations, allowing users to interact with the forum effectively.
+
+I learned about best practices for building RESTful APIs, including proper status codes and error handling. This knowledge was vital for creating a reliable and user-friendly application. I tested the APIs using tools like Postman, ensuring that they functioned as expected. By the end of the day, I had a set of REST APIs ready for integration with the frontend of the community forum project.

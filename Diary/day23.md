@@ -1,0 +1,4 @@
+### Introduction to Express.js
+On Day 23, I was introduced to Express.js, a minimalist web framework for Node.js that simplifies server-side development. I learned about routing, middleware, and how Express can streamline the creation of APIs. Understanding how to build a robust backend was essential for the success of my community forum project.
+
+I set up a basic Express server and created routes for handling requests. This foundational knowledge was essential for building the backend of my community forum project. I experimented with different middleware functions, such as body-parser and cors, to manage incoming requests and handle cross-origin resource sharing. This day laid the groundwork for further development, and I felt increasingly confident in my backend skills.

@@ -1,0 +1,4 @@
+### Exploring Static Site Generation and Server-Side Rendering
+Day 18 focused on exploring static site generation (SSG) and server-side rendering (SSR) in Next.js. I learned how these features enhance performance and SEO by pre-rendering pages. Understanding the differences between SSG and SSR helped me choose the right approach for different use cases in my application.
+
+I experimented with both SSG and SSR in my application, observing how each approach impacted load times and user experience. For instance, I implemented SSG for the landing page, which significantly improved loading speed, while using SSR for pages that required real-time data. This exploration deepened my understanding of Next.js's capabilities, and I began to see its potential for future projects. By the end of the day, I felt empowered to leverage these features in my community forum project.

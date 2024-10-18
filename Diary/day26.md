@@ -1,0 +1,4 @@
+### Integrating the Frontend and Backend
+On Day 26, I focused on integrating the frontend and backend components of the community forum project. I connected the React frontend with the Express backend, enabling seamless data flow between the two. This process involved making API calls to fetch and display data, as well as sending user input to the server for processing.
+
+I encountered challenges while ensuring that the frontend and backend communicated effectively, but troubleshooting these issues provided valuable learning experiences. I implemented features like user authentication, allowing users to create accounts, log in, and manage their profiles. By the end of the day, I had a fully functional application with a cohesive user experience, marking a significant milestone in the project.

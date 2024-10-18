@@ -1,0 +1,4 @@
+### Introduction to Next.js
+On Day 15, I was introduced to Next.js, a powerful React framework that enables server-side rendering and static site generation. I learned about the advantages of using Next.js, such as improved performance, SEO optimization, and simplified routing. Understanding how Next.js differs from traditional React applications was crucial, as it opens up new possibilities for building high-performance web applications.
+
+I set up my development environment for Next.js and created my first Next.js application. This process involved learning about file-based routing and how Next.js automatically generates routes based on the folder structure. I was impressed by how quickly I could get a project up and running. By the end of Day 15, I felt excited about the potential of Next.js and looked forward to exploring its features further.

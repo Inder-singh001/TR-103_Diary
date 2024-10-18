@@ -1,0 +1,4 @@
+### Starting Development of a Landing Page Using HTML and CSS
+On Day 5, I embarked on a more extensive project: creating a landing page for a community forum. This project allowed me to apply my HTML and CSS skills to develop a more complex layout. I began by sketching a wireframe to outline the key sections, including a hero banner, features, testimonials, and a footer. The process of planning the layout gave me a clearer vision of how users would navigate the page.
+
+I wrote the HTML structure for each section, paying attention to semantic elements. As I progressed, I implemented CSS styles to enhance the visual appeal, focusing on aspects like color schemes, typography, and spacing. I researched design trends to ensure that the landing page was modern and user-friendly. This project provided me with an opportunity to explore creative design choices and learn how to structure a webpage effectively, fostering a sense of ownership and pride in my work.

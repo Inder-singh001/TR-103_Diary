@@ -1,0 +1,4 @@
+### Deploying the Community Forum
+On Day 28, I prepared to deploy the community forum application. I chose to deploy on Vercel for the frontend and Heroku for the backend, as both platforms provided seamless integration with my tech stack. This process involved configuring environment variables and ensuring that the application was ready for production.
+
+I followed best practices for deployment, including optimizing assets and ensuring security measures were in place. After successfully deploying the application, I tested the live version to ensure everything functioned correctly. This moment marked the culmination of my hard work over the past weeks, and I was thrilled to share the community forum with potential users.
